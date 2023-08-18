@@ -1,3 +1,1 @@
-a='thiru'
-b='vicky'
-print(ab)
+"HELLO WORLD"
